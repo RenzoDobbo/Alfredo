@@ -1,0 +1,4 @@
+What kind of files are we referring to?
+Which would be the source and destination of this files?
+Are we currently able to upload a single file per day, but not more? Or is the PBI referring not to a daily cap, but to be able to upload multiple files at once to save time?
+Do we want this files to be automatically or manually uploaded?
